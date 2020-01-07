@@ -1,0 +1,19 @@
+.box0{
+	background-color:#0f0;
+	width: 80%;
+	height: 80px;
+	padding: 20px;
+	margin: 10%;
+}
+.box1{
+	background-color: #008080;
+	width: 80%;
+	height: auto;
+	padding: 20px;
+	margin: 10%;
+}
+.box2{
+	background-color: red;
+	width: 80%;
+	height: auto;
+}

@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: gray;
+}
+
+.clearfix{
+	content: "";
+	display: block;
+	clear: both;
+}
+.header-top{
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom center;;
+}
+
+.header-text{
+	padding: 20px;
+}
+
+.mainvisual {
+	width: 840px;
+	margin: 50px auto
+}
+.main-visual-content{
+}
+
+.visual-image1{
+	padding-top: 30px;
+}
+
+.visual-text{
+	border-bottom: 2px solid gray;
+	padding-bottom: 30px;
+}
